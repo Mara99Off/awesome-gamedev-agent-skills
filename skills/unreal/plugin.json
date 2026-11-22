@@ -1,4 +1,12 @@
 {
   "name": "gamedev-unreal",
-  "description": "Unreal Engine 5.8 skills: Blueprints, C++ gameplay, Enhanced Input, Behavior Trees, Niagara, packaging"
+  "description": "Unreal Engine 5.8 skills: Blueprints, C++ gameplay, Enhanced Input, Behavior Trees, Niagara, packaging",
+  "skills": [
+    "./unreal-blueprints",
+    "./unreal-cpp-gameplay",
+    "./unreal-enhanced-input",
+    "./unreal-behavior-trees",
+    "./unreal-niagara",
+    "./unreal-packaging"
+  ]
 }
