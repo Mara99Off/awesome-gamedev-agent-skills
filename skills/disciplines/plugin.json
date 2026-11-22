@@ -1,4 +1,21 @@
 {
   "name": "gamedev-disciplines",
-  "description": "Cross-engine game-dev disciplines: assets, AI, procedural generation, dialogue, saves, audio, shaders, physics, level design, input, game feel, cameras, UI/UX, performance."
+  "description": "Cross-engine game-dev disciplines: assets, AI, procedural generation, dialogue, saves, audio, shaders, physics, level design, input, game feel, cameras, UI/UX, performance.",
+  "skills": [
+    "./create-game-assets",
+    "./game-ai",
+    "./procedural-gen",
+    "./dialogue-systems",
+    "./save-systems",
+    "./audio-design",
+    "./shader-programming",
+    "./physics-tuning",
+    "./level-design",
+    "./input-systems",
+    "./game-feel",
+    "./game-ui-ux",
+    "./camera-systems",
+    "./performance-optimization",
+    "./ai-behavior-trees-utility-ai"
+  ]
 }
